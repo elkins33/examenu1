@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "1933122b-f96e-43dc-ad6c-4b385630b337",
+    "Name": "Teclado",
+    "Cantidad": 3,
+    "Precio": 600
+  },
+  {
+    "Id": "300b633c-a30a-4f3c-854d-bc449457df49",
+    "Name": "Mouse",
+    "Cantidad": 5,
+    "Precio": 400
+  },
+  {
+    "Id": "7fd445c3-d7ca-4753-85d8-987085bf7c76",
+    "Name": "Monitor",
+    "Cantidad": 1,
+    "Precio": 2500
+  },
+  {
+    "Id": "9275ef9c-1950-4eef-9f4c-f9691bb681bd",
+    "Name": "Case",
+    "Cantidad": 1,
+    "Precio": 4000
+  },
+  {
+    "Id": "c2d58523-a9df-41d2-be7f-c7421d533202",
+    "Name": "Headsets",
+    "Cantidad": 2,
+    "Precio": 1000
+  }
+]
